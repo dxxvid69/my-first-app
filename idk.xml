@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Existing styles... -->
+
+    <!-- Add the following style for blue buttons -->
+    <style name="BlueButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/blue_button_background</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
